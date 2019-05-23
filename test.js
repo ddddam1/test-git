@@ -1,0 +1,3 @@
+function tttt(){
+    alert('a');
+}
